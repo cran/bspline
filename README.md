@@ -1,10 +1,6 @@
-Package: bspline
-Type: Package
-Title: B-Spline Interpolation and Regression
-Version: 1.0.2
-Author: Serguei Sokol <sokol@insa-toulouse.fr>
-Maintainer: Serguei Sokol <sokol@insa-toulouse.fr>
-Description: Build and use B-splines for interpolation and regression.
+# bspline
+
+R package to build and use B-splines for interpolation and regression.
   In case of regression, equality constraints as well as monotonicity
   requirement can be imposed. Moreover, 
   knot positions (not only spline coefficients) can be part of 
@@ -16,15 +12,3 @@ Description: Build and use B-splines for interpolation and regression.
   knots. 'bspline' is written with concern about computing 
   performance that's why the basis calculation is implemented in C++.
   The rest is implemented in R but without notable impact on computing speed.
-URL: https://github.com/MathsCell/bspline
-BugReports: https://github.com/MathsCell/bspline/issues
-License: GPL-2
-Encoding: UTF-8
-Imports: Rcpp (>= 1.0.7), nlsic, arrApply
-LinkingTo: Rcpp, RcppArmadillo
-RoxygenNote: 7.1.1
-Suggests: RUnit, numDeriv
-NeedsCompilation: yes
-Packaged: 2022-03-17 09:25:22 UTC; sokol
-Repository: CRAN
-Date/Publication: 2022-03-18 10:20:21 UTC

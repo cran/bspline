@@ -1,9 +1,11 @@
-336f2d6ed896b113eb089bfbca5f14f7 *DESCRIPTION
-21b97148515722de431df968e5c2a7c1 *NAMESPACE
+67bba4bf72d9b71d6432e493a999d49d *DESCRIPTION
+170ba5f96f0c48d2bf66083eb59fdc09 *NAMESPACE
+318fb2fbee4066e2b87bd97abd1b2a16 *NEWS.md
 856b7b96103d87a2e7e613282b3c95d9 *R/RcppExports.R
-de8299494c814690172c7ba95f891cad *R/bspline.R
+ac73abb45a2fe32b34541d0ab59635ec *R/bspline.R
+0525fcfcadc53b200dfe767cb829039f *README.md
 9004dfabb65b2f8940389f2145f0f4a7 *inst/include/bspline.h
-a3d2d888b6cee5902ba0245dc0952763 *inst/unitTests/runit.dynafluxr.R
+d622c7bd0c334e0a1bf0d7fcf0c1d27e *inst/unitTests/runit.dynafluxr.R
 e76465a74d30eb781a3b04589d62214e *man/bsc.Rd
 1020ba06fb042025f5fd8ef054c4608e *man/bsp.Rd
 24e2a0558672238bdf74612db41612fd *man/bspline.Rd
@@ -12,7 +14,7 @@ cfce1e7cb6af521c41bb10ecb8343838 *man/dbsp.Rd
 1d5993bc6cfef31a12326a7a90244fd6 *man/diffn.Rd
 f0206401427d28b13c556021e96f871a *man/iknots.Rd
 91d65e962a97f5966cdb3a67f4cde863 *man/par2bsp.Rd
-3720c9b3678ddbda7630c30eec560b80 *man/smbsp.Rd
+5adb3ae7f0c8d61fe4a117880f9c93d2 *man/smbsp.Rd
 3123c3440ecdfce56584295651418fb3 *src/RcppExports.cpp
-969196f9858168219381d395c4345af9 *src/bspline.cpp
+58a82fee46659edd76222d907464ec42 *src/bspline.cpp
 e5156efb9665920a7491cb95fc839d47 *tests/RUnit.R
