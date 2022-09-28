@@ -1,3 +1,10 @@
+## v2.1 2022-09-26
+
+ - smbsp() can estimate covariance matrix of estimated coefficients
+ - added dmat() for integration operator
+ - ipk() is now exported and tested
+ - fixed 0-value for abscissas on the right hand side of the knot interval
+
 ## v2.0.1 2022-04-19
 
  - `bsc()` can calculate Jacobian of basis vectors as function of knots.
