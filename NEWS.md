@@ -1,6 +1,20 @@
+## v2.2.2 2024-07-02
+
+ - fixed typo in example of `pbsc()`
+ - fixed syntax error in manul for `bsc()` and `bsp()`
+ - fixed missing variable in test of example for `pbsc()`
+ - fixed missing export for `pbsc()`
+
+## v2.2.1 2023-05-30
+
+ - fixed typo in rgl example of `bcurve()`
+ - fixed NEWS mention of `parr()` for v2.2.
+ - added `pbsc()`
+
 ## v2.2 2023-05-26
 
  - added `bcurve()` for building nD curves from a set of control points
+ - added `parr()` polynomial formulation of B-splines
 
 ## v2.1 2022-09-26
 
