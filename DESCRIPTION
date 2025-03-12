@@ -1,7 +1,7 @@
 Package: bspline
 Type: Package
 Title: B-Spline Interpolation and Regression
-Version: 2.3.0
+Version: 2.4.0
 Authors@R: person(given = "Serguei",
                     family = "Sokol",
                     role = c("aut", "cre"),
@@ -9,8 +9,9 @@ Authors@R: person(given = "Serguei",
 Description: Build and use B-splines for interpolation and regression.
   In case of regression, equality constraints as well as monotonicity
   and/or positivity of B-spline weights can be imposed. Moreover, 
-  knot positions (not only spline weights) can be part of 
-  optimized parameters too. For this end, 'bspline' is able to calculate
+  knot positions can be on regular grid or be part of 
+  optimized parameters too (in addition to the spline weights).
+  For this end, 'bspline' is able to calculate
   Jacobian of basis vectors as function of knot positions. User is provided with 
   functions calculating spline values at arbitrary points. These 
   functions can be differentiated and integrated to obtain B-splines calculating 
@@ -29,8 +30,8 @@ RoxygenNote: 7.3.2
 Suggests: RUnit
 Copyright: INRAE/INSA/CNRS
 NeedsCompilation: yes
-Packaged: 2025-02-05 14:08:32 UTC; sokol
+Packaged: 2025-03-12 09:04:16 UTC; sokol
 Author: Serguei Sokol [aut, cre]
 Maintainer: Serguei Sokol <sokol@insa-toulouse.fr>
 Repository: CRAN
-Date/Publication: 2025-02-05 14:50:02 UTC
+Date/Publication: 2025-03-12 09:40:02 UTC
