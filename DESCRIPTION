@@ -1,7 +1,7 @@
 Package: bspline
 Type: Package
 Title: B-Spline Interpolation and Regression
-Version: 2.4.0
+Version: 2.5.0
 Authors@R: person(given = "Serguei",
                     family = "Sokol",
                     role = c("aut", "cre"),
@@ -24,14 +24,14 @@ URL: https://github.com/MathsCell/bspline
 BugReports: https://github.com/MathsCell/bspline/issues
 License: GPL-2
 Encoding: UTF-8
-Imports: Rcpp (>= 1.0.7), nlsic (>= 1.0.2), arrApply
+Imports: Rcpp (>= 1.0.7), nlsic (>= 1.1.0), arrApply
 LinkingTo: Rcpp, RcppArmadillo
 RoxygenNote: 7.3.2
 Suggests: RUnit
 Copyright: INRAE/INSA/CNRS
 NeedsCompilation: yes
-Packaged: 2025-03-12 09:04:16 UTC; sokol
+Packaged: 2025-05-16 16:15:35 UTC; sokol
 Author: Serguei Sokol [aut, cre]
 Maintainer: Serguei Sokol <sokol@insa-toulouse.fr>
 Repository: CRAN
-Date/Publication: 2025-03-12 09:40:02 UTC
+Date/Publication: 2025-05-16 16:50:02 UTC
