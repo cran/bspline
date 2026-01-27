@@ -1,11 +1,11 @@
-6bf162e4196c2cefd0e784c3559d5010 *DESCRIPTION
+43fe5f1a563a91e29e3e3ead09d333be *DESCRIPTION
 cda8fe8831361bc2f7e712ce0ba3f135 *NAMESPACE
-d600b236ede57103acbc6648af962e6f *NEWS.md
+21f05c0ac1fa98ab05762edddae31470 *NEWS.md
 d17c0778007c8210b43e23ddf1b760d4 *R/RcppExports.R
 eb8ce9927fd9f91da2bd771fef861c52 *R/bspline.R
 f37de71584e33ed7935fe5fed83ec76a *cleanup
 9004dfabb65b2f8940389f2145f0f4a7 *inst/include/bspline.h
-3e07aec33e3569f622172262c3906644 *inst/unitTests/runit.bspline.R
+6bd57e17cc36710c8b231e478def7fd1 *inst/unitTests/runit.bspline.R
 72d6c465dcb7c1fe71c31d56ae39d991 *man/bcurve.Rd
 7c8d9a8be9f75fd422e435c02da2bb89 *man/bsc.Rd
 1cf1df33daab2b31a45deb7793dbcc05 *man/bsp.Rd

@@ -1,7 +1,7 @@
 Package: bspline
 Type: Package
 Title: B-Spline Interpolation and Regression
-Version: 2.5.0
+Version: 2.5.1
 Authors@R: person(given = "Serguei",
                     family = "Sokol",
                     role = c("aut", "cre"),
@@ -30,8 +30,8 @@ RoxygenNote: 7.3.2
 Suggests: RUnit
 Copyright: INRAE/INSA/CNRS
 NeedsCompilation: yes
-Packaged: 2025-05-16 16:15:35 UTC; sokol
+Packaged: 2026-01-27 13:54:00 UTC; sokol
 Author: Serguei Sokol [aut, cre]
 Maintainer: Serguei Sokol <sokol@insa-toulouse.fr>
 Repository: CRAN
-Date/Publication: 2025-05-16 16:50:02 UTC
+Date/Publication: 2026-01-27 16:50:02 UTC
